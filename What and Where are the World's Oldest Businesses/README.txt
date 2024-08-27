@@ -2,5 +2,6 @@
 
 This project aims to explore data on the world's oldest businesses, specifically when they were founded and to which industries they belong.
 
-###### Credits:
-BusinessFinancing.co.uk
+The motive for doing this project was to reinforce my skills in Data Manipulation with pandas and Joining Data with pandas.
+
+###### Data credits: BusinessFinancing.co.uk
